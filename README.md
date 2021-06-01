@@ -1,1 +1,1 @@
-# doctors-portal-server
+# doctors-server
